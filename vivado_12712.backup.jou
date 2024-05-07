@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Tue May  7 03:16:48 2024
+# Process ID: 12712
+# Current directory: C:/Users/moham/OneDrive/Desktop/microprocessor project/mano_16bit/mano_16bit
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent21592 C:\Users\moham\OneDrive\Desktop\microprocessor project\mano_16bit\mano_16bit\mano_16bit.xpr
+# Log file: C:/Users/moham/OneDrive/Desktop/microprocessor project/mano_16bit/mano_16bit/vivado.log
+# Journal file: C:/Users/moham/OneDrive/Desktop/microprocessor project/mano_16bit/mano_16bit\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/moham/OneDrive/Desktop/microprocessor project/mano_16bit/mano_16bit/mano_16bit.xpr}
+launch_simulation
+source mano_tb.tcl
+close_sim
